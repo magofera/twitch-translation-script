@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitch.tv chat Translation
-// @namespace    https://github.com/jeanmoraes0/twitch-translation-script
+// @namespace    https://github.com/magofera/twitch-translation-script
 // @version      2.0
 // @description  Add a button to the Twitch.tv website that opens a menu to translate messages to the Twitch.tv chat.
 // @author       Jean Moraes
