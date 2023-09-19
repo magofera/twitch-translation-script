@@ -3,7 +3,7 @@
 // @namespace    https://github.com/magofera/twitch-translation-script
 // @version      2.0
 // @description  Add a button to the Twitch.tv website that opens a menu to translate messages to the Twitch.tv chat.
-// @author       Jean Moraes
+// @author       Magof
 // @match        https://www.twitch.tv/*
 // ==/UserScript==
 
